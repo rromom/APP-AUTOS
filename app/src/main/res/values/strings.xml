@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Autos</string>
+    <!-- TODO: REGISTRO -->
+    <string name="regreg">REGISTRO</string>
+    <string name="regname">Ingrese Nombre</string>
+    <string name="regid">Ingrese Cédula</string>
+    <string name="regcode">Ingrese Código</string>
+    <string name="reguser">Ingrese Usuario</string>
+    <string name="regpass">Ingrese Contraseña</string>
+    <string name="regconfirm">Verificar Contraseña</string>
+    <string name="regbtn">REGISTRAR</string>
+    <!-- TODO: LOGIN -->
+    <string name="loglog">INICAR SESION</string>
+    <string name="loguser">Ingrese Usuario</string>
+    <string name="logpass">Ingrese Contraseña</string>
+    <string name="logbtn">Iniciar Sesion</string>
+    <!-- TODO: MENU -->
+    <string name="mnmn">MENU</string>
+    <!-- TODO: VENDER -->
+    <string name="venlay">Datos Vehículo</string>
+    <string name="vencode">Codigo: </string>
+    <string name="codeinp">Ingrese Código</string>
+    <string name="venmark">Marca:</string>
+    <string name="venmodel">Modelo:</string>
+    <string name="modelinp">Ingrese Modelo</string>
+    <string name="venyear">Año Vehículo:</string>
+    <string name="vencost">Precio:</string>
+    <string name="vencost2">Ingrese Precio</string>
+    <string name="vencylinder">Cilindraje:</string>
+    <string name="vencylinder2">Ingrese Cilindraje</string>
+    <string name="vencountry">País Origen:</string>
+    <string name="vencountry2">Ingrese País de Origen</string>
+    <string name="venstatus">Estado:</string>
+    <string name="venmiliage">Kilimetraje:</string>
+    <string name="venmiliage2">Ingrese los Kilometros</string>
+    <string name="venowner">Dueño:</string>
+    <string name="venreg">REGISTRAR</string>
+    <string name="vencon">CONSULTAR</string>
+    <string name="venact">ACTUALIZAR</string>
+    <string name="veneli">ELIMINAR</string>
+    <string name="vencot">COTIZAR VEHÍCULO</string>
+    <!-- TODO: COTIZAR -->
+    <string name="cotinput">ENTRADA : </string>
+    <string name="cotinput2">Ingrese la Entrada</string>
+    <string name="cotmonths">N° MESES : </string>
+    <string name="cotbtn">COTIZAR</string>
+    <string name="cotcan">CANCELAR</string>
+    <!-- TODO: COMPRAR -->
+    <string name="comsend">ENVIAR</string>
+    <string name="comcode">Código Vehículo</string>
+    <string name="comtitle">Datos Vehículos</string>
+    <string name="comshock">CHOQUES : </string>
+    <string name="comair">AIRE ACONDICIONADO : </string>
+    <string name="comseating">TAPICERÍA : </string>
+    <string name="compaint">PINTURA : </string>
+    <string name="combody">CARROCERÍA : </string>
+    <string name="comsi">SI</string>
+    <string name="comno">NO</string>
+    <string name="combrand">MARCA:</string>
+    <string name="commodel">MODELO:</string>
+    <string name="comyear">AÑO:</string>
+    <string name="commiliage">KILOMETRAJE</string>
+    <string name="comcost">PRECIO:</string>
+    <string name="comowner">DUEÑO:</string>
+    <string name="conbtn">CALCULAR</string>
+
+
+</resources>
